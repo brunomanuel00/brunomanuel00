@@ -30,10 +30,10 @@ mis habilidades en el backend con **Node.js, Express y MongoDB**. Mi meta es con
 
 ## 🤝 Me encantaría colaborar en...
 
--Proyectos open source con buen diseño y propósito claro
--Aplicaciones educativas, de impacto social o que ayuden a resolver problemas reales
--Equipos del sector privado que busquen soluciones modernas, escalables y eficientes con React y Node.js
--Iniciativas donde pueda aprender, aportar y crecer como desarrollador
+- Proyectos open source con buen diseño y propósito claro
+- Aplicaciones educativas, de impacto social o que ayuden a resolver problemas reales
+- Equipos del sector privado que busquen soluciones modernas, escalables y eficientes con React y Node.js
+- Iniciativas donde pueda aprender, aportar y crecer como desarrollador
 
 ## 📫 ¿Cómo contactarme?
 

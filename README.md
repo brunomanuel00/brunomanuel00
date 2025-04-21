@@ -1,48 +1,45 @@
 # 👋 Hi there! I'm Bruno Manuel
 
-Soy un **desarrollador web fullstack** apasionado por crear soluciones útiles y bien diseñadas. Me especializo en el desarrollo **frontend con React** y estoy profundizando
-mis habilidades en el backend con **Node.js, Express y MongoDB**. Mi meta es convertirme en uno de los mejores programadores y dejar huella con cada línea de código.
+I'm a **full-stack web developer** passionate about creating useful and well-designed solutions. I specialize in **frontend development with React** and am deepening my backend skills with **Node.js, Express, and MongoDB**. My goal is to become one of the best programmers and leave my mark with every line of code.
 
-## 🚀 Tecnologías con las que trabajo
+## 🚀 Technologies I work with
 
 - ⚛️ React (con Vite, TypeScript y shadcn/ui)
-- 🎨 CSS moderno (Tailwind, CSS Modules)
+- 🎨 Modern CSS (Tailwind, CSS Modules)
 - 🌐 Node.js + Express
-- 🛢️ MongoDB con Mongoose
-- 🧪 Jest, Playwright (aprendiendo testing)
-- 🧠 JWT, manejo de autenticación
-- 🐳 Docker (en proceso de mejora)
-- 💬 También mejorando mi inglés y habilidades sociales
+- 🛢️ MongoDB with Mongoose
+- 🧪 Jest, Playwright (learning testing)
+- 🧠 JWT, authentication handling
+- 💬 Also improving my English and social skills
 
-## 🌱 Actualmente estoy aprendiendo
+## 🌱 I am currently learning
 
-- Backend avanzado con Node.js
-- Pruebas automatizadas
-- SEO y rendimiento web
-- Framer Motion para animaciones
-- Buenas prácticas para trabajar en equipo
+- Advanced backend with Node.js and Express
+- Automated testing
+- SEO and web performance
+- Framer Motion for animations
+- Good practices for teamwork
 
-## 🛠️ Proyectos en los que estoy trabajando
+## 🛠️ Projects I'm working on
 
-- 🧩 **Match de habilidades**: una app para conectar personas según sus habilidades (React + TypeScript +Tailwind + Express + MongoDB)
-- 📸 Galería de fotos con carga, edición y eliminación de imágenes (React+ TypeScript)
-- 🏥 Healt-Care para informar los servicios que ofrece esta (React)
+- 🧩 **Skill Match**: An app to connect people based on skills (React + TypeScript + Tailwind + Express + MongoDB + AI) *(under construction)*
+- 📸 Photo gallery with image upload, editing, and deletion (React + TypeScript) Finished
+- 🏥 Health-Care to inform about the services it offers (React + JS) Finished
 
-## 🤝 Me encantaría colaborar en...
+## 🤝 I'd love to collaborate on...
 
-- Proyectos open source con buen diseño y propósito claro
-- Aplicaciones educativas, de impacto social o que ayuden a resolver problemas reales
-- Equipos del sector privado que busquen soluciones modernas, escalables y eficientes con React y Node.js
-- Iniciativas donde pueda aprender, aportar y crecer como desarrollador
+- Open source projects with good design and a clear purpose
+- Educational applications, applications with social impact, or applications that help solve real problems
+- Private sector teams looking for modern, scalable, and efficient solutions with React and Node.js
+- Initiatives where I can learn, contribute, and grow as a developer
 
-## 📫 ¿Cómo contactarme?
+## 📫 How to contact me?
 
 - 💌 brunomanuel.dev@gmail.com
 - 🌐 www.linkedin.com/in/bruno-coello
-- 📁 [Portafolio](https://tu-portafolio.com) *(en construcción)*
+- 📁 [Portfolio](https://your-portfolio.com) *(under construction)*
 
 ---
 
-> “No se trata solo de escribir código, sino de crear experiencias que marquen la diferencia.”  
+> “It's not just about writing code, it's about creating experiences that make a difference.”
 > — Bruno Manuel
-

@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Bruno Manuel
 
 Soy un **desarrollador web fullstack** apasionado por crear soluciones útiles y bien diseñadas. Me especializo en el desarrollo **frontend con React** y estoy profundizando
-mis habilidades en el backend con **Node.js, Express y MongoDB**. Mi meta es convertirme en uno de los mejores programadores del mundo y dejar huella con cada línea de código.
+mis habilidades en el backend con **Node.js, Express y MongoDB**. Mi meta es convertirme en uno de los mejores programadores y dejar huella con cada línea de código.
 
 ## 🚀 Tecnologías con las que trabajo
 
